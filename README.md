@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Millama-Chan, a young unemployed programmer who aspires to become a game developer in the future
 - 👀 I’m interested in games, programming, design and animation
+- 🤓 I also enjoy coding web pages and mobile apps
 - 🌱 I’m currently learning all of the above along with Japanese
 - 
 - 📫 I don't have social media, sorry. 
